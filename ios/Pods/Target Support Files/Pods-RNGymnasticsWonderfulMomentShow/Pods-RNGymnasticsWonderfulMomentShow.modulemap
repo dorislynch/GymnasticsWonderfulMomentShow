@@ -1,0 +1,6 @@
+framework module Pods_RNGymnasticsWonderfulMomentShow {
+  umbrella header "Pods-RNGymnasticsWonderfulMomentShow-umbrella.h"
+
+  export *
+  module * { export * }
+}
